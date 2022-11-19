@@ -1,1 +1,1 @@
-{"result": {"error": {"code": 601, "message": "The requested token could not be found."}, "status": false}}
+{"id": 1, "jsonrpc": "2.0", "result": {"status": true, "value": 1}}
