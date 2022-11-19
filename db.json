@@ -1,8 +1,1 @@
-{
-  "id": 1,
-  "result": {
-    "status": true,
-    "value": 1
-  },
-  "versionnumber": "3"
-}
+{"id": 1, "result": {"status": true, "value": 1}, "versionnumber": "3"}
