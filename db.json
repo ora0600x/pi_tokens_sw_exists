@@ -1,1 +1,1 @@
-{"result":{"value":{"tokens":[{"description":"","info":{"tokenkind":"software"},"serial":"TOTP999999E9","tokentype":"totp", "rollout_state":"verify", "user_realm":"tugraz","username":"xxxxx"}]}}}
+{"id":"1","jsonrpc":"2.0","result":{"status":true,"value":"1"}}
